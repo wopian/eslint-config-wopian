@@ -65,8 +65,8 @@ All code released under [MIT]
 [travis]: https://travis-ci.org/wopian/eslint-config-wopian
 [travis badge]: https://img.shields.io/travis/wopian/eslint-config-wopian/master.svg?style=flat-square&label=linux%20%26%20macOS
 
-[david]: https://david-dm.org/wopian/eslint-config-wopian
-[david badge]: https://img.shields.io/david/wopian/eslint-config-wopian.svg?style=flat-square
+[david]: https://david-dm.org/wopian/eslint-config-wopian?path=packages/eslint-config-wopian
+[david badge]: https://david-dm.org/wopian/eslint-config-wopian/status.svg?path=packages/eslint-config-wopian&style=flat-square
 [david dev]: https://david-dm.org/wopian/eslint-config-wopian?type=dev
 [david dev badge]: https://img.shields.io/david/dev/wopian/eslint-config-wopian.svg?style=flat-square
 
