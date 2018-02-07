@@ -1,0 +1,62 @@
+{
+  "name": "eslint-config-wopian",
+  "license": "MIT",
+  "author": "James Harris <wopian@wopian.me>",
+  "private": true,
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "rules": "run-p rules:*",
+    "rules:wopian": "eslint-find-rules packages/eslint-config-wopian/index.js --current",
+    "rules:wopian-react": "eslint-find-rules packages/eslint-config-wopian-react/index.js --current",
+    "rules:wopian-vue": "eslint-find-rules packages/eslint-config-wopian-vue/index.js --current"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "eslint": "~4.17.0",
+    "eslint-find-rules": "~3.1.1",
+    "jest": "~22.1.4",
+    "lerna": "~2.8.0",
+    "yarn-run-all": "~3.1.1"
+  },
+  "peerDependencies": {
+    "eslint": "~4.17.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wopian/eslint-config-wopian.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wopian/eslint-config-wopian/issues"
+  },
+  "homepage": "https://github.com/wopian/eslint-config-wopian#readme",
+  "renovate": {
+    "extends": [
+      ":npm",
+      ":preserveSemverRanges",
+      ":combinePatchMinorReleases",
+      ":renovatePrefix",
+      ":semanticCommits",
+      ":semanticCommitTypeAll(chore)",
+      ":rebaseStalePrs",
+      ":unpublishSafe",
+      ":prNotPending",
+      ":automergeDisabled",
+      ":maintainLockFilesMonthly",
+      ":ignoreUnstable",
+      ":updateNotScheduled",
+      ":label(dependencies)",
+      ":timezone(Europe/London)",
+      ":assignee(wopian)",
+      "group:babelMonorepo",
+      "group:jestMonorepo",
+      "group:storybookMonorepo"
+    ],
+    "prTitle": "update {{depName}} to {{newVersion}}",
+    "commitMessage": "update {{depName}} to {{newVersion}}"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "eslint-config-wopian-vue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-wopian": "~1.0.0",
+    "eslint-plugin-html": "~4.0.2"
+  },
+  "peerDependencies": {
+    "eslint": "~4.17.0"
+  }
+}

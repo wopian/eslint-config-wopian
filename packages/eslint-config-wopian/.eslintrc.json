@@ -1,0 +1,10 @@
+{
+  "extends": "standard",
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "ecmaVersion": 8,
+    "ecmaFeatures": {
+      "modules": true
+    }
+  }
+}
