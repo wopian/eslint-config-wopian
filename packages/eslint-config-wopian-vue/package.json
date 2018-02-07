@@ -1,5 +1,6 @@
 {
   "name": "eslint-config-wopian-vue",
+  "description": "Standard ESLint Config for my Vue projects",
   "main": "index.js",
   "license": "MIT",
   "author": "James Harris <wopian@wopian.me>",

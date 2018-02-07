@@ -1,5 +1,6 @@
 {
   "name": "eslint-config-wopian-react",
+  "description": "Standard ESLint Config for my React projects",
   "main": "index.js",
   "license": "MIT",
   "author": "James Harris <wopian@wopian.me>",
