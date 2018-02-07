@@ -1,12 +1,9 @@
 # ESLint Config
 
-[![npm badge]][npm]
-[![npm install badge]][npm]
-[![contributors badge]][contributors]
-[![donate badge]][donate]
-
 [![travis badge]][travis]
 [![david dev badge]][david dev]
+[![contributors badge]][contributors]
+[![donate badge]][donate]
 
 Standard ESLint Config for my projects
 
@@ -32,10 +29,6 @@ yarn bootstrap
 All code released under [MIT]
 
 [mit]: https://github.com/wopian/eslint-config-wopian/blob/master/LICENSE.md
-
-[npm]: https://www.npmjs.com/package/eslint-config-wopian
-[npm badge]: https://img.shields.io/npm/v/eslint-config-wopian.svg?style=flat-square
-[npm install badge]: https://img.shields.io/npm/dt/eslint-config-wopian.svg?style=flat-square
 
 [travis]: https://travis-ci.org/wopian/eslint-config-wopian
 [travis badge]: https://img.shields.io/travis/wopian/eslint-config-wopian/master.svg?style=flat-square&label=linux%20%26%20macOS
