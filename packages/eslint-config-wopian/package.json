@@ -2,6 +2,10 @@
   "name": "eslint-config-wopian",
   "main": "index.js",
   "license": "MIT",
+  "author": "James Harris <wopian@wopian.me>",
+  "engines": {
+    "node": ">=6"
+  },
   "dependencies": {
     "babel-eslint": "~8.2.0",
     "eslint-config-standard": "~11.0.0-beta.0",
@@ -12,7 +16,15 @@
     "eslint-plugin-standard": "~3.0.0"
   },
   "peerDependencies": {
-    "eslint": "~4.17.0"
+    "eslint": "^4.0.0"
   },
-  "version": "0.0.1"
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wopian/eslint-config-wopian.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wopian/eslint-config-wopian/issues"
+  },
+  "homepage": "https://github.com/wopian/eslint-config-wopian#readme"
 }

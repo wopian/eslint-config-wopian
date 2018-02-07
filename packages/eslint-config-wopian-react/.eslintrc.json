@@ -1,3 +1,6 @@
 {
-  "extends": [ "wopian", "standard-jsx" ]
+  "extends": [
+    "wopian",
+    "standard-jsx"
+  ]
 }

@@ -1,6 +1,11 @@
 {
-  "extends": "wopian",
-  "plugins": [ "html" ],
+  "extends": [
+    "wopian",
+    "plugin:vue/recommended"
+  ],
+  "plugins": [
+    "html"
+  ],
   "rules": {
     "arrow-parens": "off",
     "generator-star-spacing": "off"

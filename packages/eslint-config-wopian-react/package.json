@@ -2,13 +2,25 @@
   "name": "eslint-config-wopian-react",
   "main": "index.js",
   "license": "MIT",
+  "author": "James Harris <wopian@wopian.me>",
+  "engines": {
+    "node": ">=6"
+  },
   "dependencies": {
     "eslint-config-standard-jsx": "~4.0.2",
-    "eslint-config-wopian": "*",
+    "eslint-config-wopian": "~1.0.0",
     "eslint-plugin-react": "~7.6.1"
   },
   "peerDependencies": {
-    "eslint": "~4.17.0"
+    "eslint": "^4.0.0"
   },
-  "version": "0.0.1"
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wopian/eslint-config-wopian.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wopian/eslint-config-wopian/issues"
+  },
+  "homepage": "https://github.com/wopian/eslint-config-wopian#readme"
 }

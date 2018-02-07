@@ -2,12 +2,25 @@
   "name": "eslint-config-wopian-vue",
   "main": "index.js",
   "license": "MIT",
+  "author": "James Harris <wopian@wopian.me>",
+  "engines": {
+    "node": ">=6"
+  },
   "dependencies": {
-    "eslint-config-wopian": "*",
-    "eslint-plugin-html": "~4.0.2"
+    "eslint-config-wopian": "~1.0.0",
+    "eslint-plugin-html": "~4.0.2",
+    "eslint-plugin-vue": "~4.2.2"
   },
   "peerDependencies": {
-    "eslint": "~4.17.0"
+    "eslint": "^4.0.0"
   },
-  "version": "0.0.1"
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wopian/eslint-config-wopian.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wopian/eslint-config-wopian/issues"
+  },
+  "homepage": "https://github.com/wopian/eslint-config-wopian#readme"
 }
