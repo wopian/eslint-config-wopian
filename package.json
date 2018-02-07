@@ -1,5 +1,4 @@
 {
-  "name": "eslint-config-wopian",
   "license": "MIT",
   "author": "James Harris <wopian@wopian.me>",
   "private": true,
@@ -7,6 +6,8 @@
     "node": ">=6"
   },
   "scripts": {
+    "test": "jest && eslint packages",
+    "fix": "eslint packages --fix",
     "bootstrap": "lerna bootstrap",
     "rules": "run-p rules:*",
     "rules:wopian": "eslint-find-rules packages/eslint-config-wopian/index.js --current",
