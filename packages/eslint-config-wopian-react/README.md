@@ -1,4 +1,4 @@
-# ESLint Config
+# ESLint Config React
 
 [![npm badge]][npm]
 [![npm install badge]][npm]
