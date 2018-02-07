@@ -1,6 +1,5 @@
 {
   "name": "eslint-config-wopian",
-  "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
@@ -14,5 +13,6 @@
   },
   "peerDependencies": {
     "eslint": "~4.17.0"
-  }
+  },
+  "version": "0.0.1"
 }
