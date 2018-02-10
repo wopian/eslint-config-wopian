@@ -21,7 +21,7 @@ describe('wopian', () => {
   })
 
   it('should use jest', () => {
-    expect(config.plugins).toEqual(['jest'])
+    expect(config.plugins).toEqual([ 'jest' ])
     expect(config.env.jest).toBe(true)
   })
 })

@@ -13,10 +13,10 @@ describe('wopian-react', () => {
   })
 
   it('should extend wopian and vue', () => {
-    expect(config.extends).toEqual(['wopian', 'plugin:vue/recommended'])
+    expect(config.extends).toEqual([ 'wopian', 'plugin:vue/recommended' ])
   })
 
   it('should use html', () => {
-    expect(config.plugins).toEqual(['html'])
+    expect(config.plugins).toEqual([ 'html' ])
   })
 })

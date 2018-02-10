@@ -13,6 +13,6 @@ describe('wopian-react', () => {
   })
 
   it('should extend wopian and standard-jsx', () => {
-    expect(config.extends).toEqual(['wopian', 'standard-jsx'])
+    expect(config.extends).toEqual([ 'wopian', 'standard-jsx' ])
   })
 })
