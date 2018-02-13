@@ -9,13 +9,13 @@
   },
   "dependencies": {
     "eslint-config-standard-jsx": "~4.0.2",
-    "eslint-config-wopian": "^1.1.0",
+    "eslint-config-wopian": "^1.1.1",
     "eslint-plugin-react": "~7.6.1"
   },
   "peerDependencies": {
     "eslint": "^4.0.0"
   },
-  "version": "1.1.0",
+  "version": "1.1.1",
   "repository": "https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-react",
   "bugs": {
     "url": "https://github.com/wopian/eslint-config-wopian/issues"
