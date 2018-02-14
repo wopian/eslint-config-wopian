@@ -1,8 +1,16 @@
 {
   "private": true,
+  "homepage": "https://github.com/wopian/eslint-config-wopian#readme",
+  "repository": "https://github.com/wopian/eslint-config-wopian",
+  "bugs": {
+    "url": "https://github.com/wopian/eslint-config-wopian/issues"
+  },
   "engines": {
     "node": ">=6"
   },
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "test": "jest && eslint packages",
     "fix": "eslint packages --fix",
@@ -13,9 +21,6 @@
     "rules:wopian-react": "eslint-find-rules packages/eslint-config-wopian-react/index.js --current",
     "rules:wopian-vue": "eslint-find-rules packages/eslint-config-wopian-vue/index.js --current"
   },
-  "workspaces": [
-    "packages/*"
-  ],
   "devDependencies": {
     "eslint": "~4.17.0",
     "eslint-find-rules": "~3.1.1",
