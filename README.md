@@ -5,7 +5,17 @@
 [![contributors badge]][contributors]
 [![donate badge]][donate]
 
-Standard ESLint Config for my projects
+Standard ESLint Config for my projects.
+
+Available for:
+
+- [JavaScript]
+- [React]
+- [Vue]
+
+[JavaScript]:https://www.npmjs.com/package/eslint-config-wopian
+[React]:https://www.npmjs.com/package/eslint-config-wopian-react
+[Vue]:https://www.npmjs.com/packages/eslint-config-wopian-vue
 
 ## Contributing
 

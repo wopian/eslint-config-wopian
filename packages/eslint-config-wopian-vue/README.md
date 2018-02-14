@@ -11,6 +11,11 @@
 
 Standard ESLint Config for my Vue projects
 
+Also available for [JavaScript] and [React]
+
+[JavaScript]:https://www.npmjs.com/package/eslint-config-wopian
+[React]:https://www.npmjs.com/package/eslint-config-wopian-react
+
 ## Requirements
 
 - [ESLint] `>=4.0.0`
