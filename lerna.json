@@ -1,6 +1,11 @@
 {
   "lerna": "2.8.0",
   "version": "1.2.2",
+  "commands": {
+    "publish": {
+      "conventionalCommits": true
+    }
+  },
   "npmClient": "yarn",
   "useWorkspaces": true
 }
