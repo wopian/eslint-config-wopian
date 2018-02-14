@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "name": "eslint-config-wopian-vue",
   "description": "Standard ESLint Config for my Vue projects",
   "author": "James Harris <wopian@wopian.me>",
@@ -14,7 +14,7 @@
     "node": ">=6"
   },
   "dependencies": {
-    "eslint-config-wopian": "^1.2.1",
+    "eslint-config-wopian": "^1.2.2",
     "eslint-plugin-html": "~4.0.2",
     "eslint-plugin-vue": "~4.2.2"
   },

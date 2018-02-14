@@ -15,7 +15,7 @@
     "test": "jest && eslint packages",
     "fix": "eslint packages --fix",
     "bootstrap": "lerna bootstrap",
-    "release": "lerna publish",
+    "release": "lerna publish --conventional-commits",
     "rules": "run-p rules:*",
     "rules:wopian": "eslint-find-rules packages/eslint-config-wopian/index.js --current",
     "rules:wopian-react": "eslint-find-rules packages/eslint-config-wopian-react/index.js --current",
