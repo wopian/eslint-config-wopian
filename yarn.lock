@@ -1157,9 +1157,9 @@ eslint-config-standard@~11.0.0-beta.0:
   version "11.0.0-beta.0"
   resolved "https://registry.yarnpkg.com/eslint-config-standard/-/eslint-config-standard-11.0.0-beta.0.tgz#f8afe69803d95c685a4b8392b8793188eb03cbb3"
 
-eslint-find-rules@~3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/eslint-find-rules/-/eslint-find-rules-3.1.1.tgz#21d3209a662148db8cce46f3fe0c4dbd270402a2"
+eslint-find-rules@~3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/eslint-find-rules/-/eslint-find-rules-3.2.0.tgz#0a4c31518420cf60a85790db56cfecc063696b06"
   dependencies:
     cliui "^3.2.0"
     eslint-rule-documentation "^1.0.0"
