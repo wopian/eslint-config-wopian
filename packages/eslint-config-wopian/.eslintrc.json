@@ -14,7 +14,7 @@
     "jest": true
   },
   "rules": {
-    "curly": [ "error", "multi" ],
+    "curly": [ "error", "multi-line" ],
     "array-bracket-spacing": [ "error", "always" ],
     "object-curly-spacing": [ "error", "always" ],
     "jest/consistent-test-it": [ "error", { "fn": "it" } ],
