@@ -1322,9 +1322,9 @@ eslint-config-standard@^11.0.0-beta.0:
   version "11.0.0"
   resolved "https://registry.yarnpkg.com/eslint-config-standard/-/eslint-config-standard-11.0.0.tgz#87ee0d3c9d95382dc761958cbb23da9eea31e0ba"
 
-eslint-find-rules@~3.2.0:
-  version "3.2.3"
-  resolved "https://registry.yarnpkg.com/eslint-find-rules/-/eslint-find-rules-3.2.3.tgz#da6bcc24fce67e2ae0fd0ff3d452bf0ffd8eddf4"
+eslint-find-rules@~3.3.0:
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/eslint-find-rules/-/eslint-find-rules-3.3.1.tgz#46a86c2fc9e9be2b33235234e1820e1f045793a9"
   dependencies:
     cliui "^3.2.0"
     eslint-rule-documentation "^1.0.0"
