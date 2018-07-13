@@ -22,7 +22,7 @@
     "rules:wopian-vue": "eslint-find-rules packages/eslint-config-wopian-vue/index.js --current"
   },
   "devDependencies": {
-    "eslint": "~5.0.0",
+    "eslint": "~5.1.0",
     "eslint-find-rules": "~3.3.0",
     "jest": "~23.3.0",
     "lerna": "~2.11.0",
