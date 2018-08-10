@@ -41,13 +41,13 @@ All code released under [MIT]
 [mit]: https://github.com/wopian/eslint-config-wopian/blob/master/LICENSE.md
 
 [travis]: https://travis-ci.org/wopian/eslint-config-wopian
-[travis badge]: https://img.shields.io/travis/wopian/eslint-config-wopian/master.svg?style=flat-square&label=linux%20%26%20macOS
+[travis badge]: https://flat.badgen.net/travis/wopian/eslint-config-wopian
 
 [david dev]: https://david-dm.org/wopian/eslint-config-wopian?type=dev
-[david dev badge]: https://img.shields.io/david/dev/wopian/eslint-config-wopian.svg?style=flat-square
+[david dev badge]: https://flat.badgen.net/david/dev/wopian/eslint-config-wopian
 
 [contributors]: https://github.com/wopian/eslint-config-wopian/graphs/contributors
 [contributors badge]: https://img.shields.io/github/contributors/wopian/eslint-config-wopian.svg?style=flat-square
 
 [donate]:https://paypal.me/wopian
-[donate badge]:https://img.shields.io/badge/support%20me%20on-paypal.me-ff69b4.svg?style=flat-square
+[donate badge]:https://flat.badgen.net/badge/support%20me%20on/paypal.me/pink
