@@ -47,7 +47,7 @@ All code released under [MIT]
 [david dev badge]: https://flat.badgen.net/david/dev/wopian/eslint-config-wopian
 
 [contributors]: https://github.com/wopian/eslint-config-wopian/graphs/contributors
-[contributors badge]: https://img.shields.io/github/contributors/wopian/eslint-config-wopian.svg?style=flat-square
+[contributors badge]: https://flat.badgen.net/github/contributors/wopian/eslint-config-wopian
 
 [donate]:https://paypal.me/wopian
 [donate badge]:https://flat.badgen.net/badge/support%20me%20on/paypal.me/pink
