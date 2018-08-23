@@ -38,7 +38,10 @@
   },
   "renovate": {
     "extends": [
-      "@wopian"
+      "@wopian",
+      ":pathSemanticCommitType(packages/eslint-config-wopian/**,build(eslint-config-wopian))",
+      ":pathSemanticCommitType(packages/eslint-config-wopian-vue/**,build(eslint-config-wopian-vue))",
+      ":pathSemanticCommitType(packages/eslint-config-wopian-react/**,build(eslint-config-wopian-react))"
     ]
   }
 }
