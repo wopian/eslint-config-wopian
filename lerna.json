@@ -1,11 +1,19 @@
 {
-  "lerna": "2.9.0",
-  "version": "1.3.4",
-  "commands": {
+  "version": "independent",
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "command": {
     "publish": {
-      "conventionalCommits": true
+      "allowBranch": [
+        "master"
+      ],
+      "conventionalCommits": true,
+      "message": "chore(release): publish %s",
+      "npmClient": "yarn"
     }
   },
-  "npmClient": "yarn",
-  "useWorkspaces": true
+  "ignoreChanges": [
+    "**/*.spec.js",
+    "**/*.tgz"
+  ]
 }
