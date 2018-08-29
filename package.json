@@ -24,6 +24,7 @@
     "rules:wopian-vue": "eslint-find-rules packages/eslint-config-wopian-vue/index.js --current"
   },
   "devDependencies": {
+    "conventional-changelog-angular-all-2": "~5.0.1",
     "eslint": "~5.4.0",
     "eslint-find-rules": "~3.3.0",
     "jest": "~23.5.0",
