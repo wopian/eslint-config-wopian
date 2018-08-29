@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.1](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/compare/eslint-config-wopian@1.4.0...eslint-config-wopian@1.4.1) (2018-08-29)
+
+
+### Build System / Dependencies
+
+* **eslint-config-wopian:** update dependency babel-eslint to ^9.0.0 ([#34](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/issues/34)) ([eeb2485](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/commit/eeb2485))
+
+
+
+
+
 <a name="1.4.0"></a>
 # 1.4.0 (2018-08-23)
 

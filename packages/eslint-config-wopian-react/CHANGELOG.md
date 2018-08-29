@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.1](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-react/compare/eslint-config-wopian-react@1.4.0...eslint-config-wopian-react@1.4.1) (2018-08-29)
+
+**Note:** Version bump only for package eslint-config-wopian-react
+
+
+
+
+
 <a name="1.4.0"></a>
 # 1.4.0 (2018-08-23)
 
