@@ -14,6 +14,9 @@ cache:
 sudo: false
 matrix:
   fast_finish: true
+env:
+  global:
+    - YARN_GPG=no # https://travis-ci.community/t/build-doesnt-finish-after-completing-tests/288
 script: yarn test
 notifications:
   email: false
