@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.3](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-vue/compare/v1.3.4...v1.4.3) (2018-12-04)
+
+
+### Build System / Dependencies
+
+* **eslint-config-wopian-vue:** update dependency eslint-plugin-html to ^5.0.0 ([#51](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-vue/issues/51)) ([e00f8a1](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-vue/commit/e00f8a1))
+* **eslint-config-wopian-vue:** update dependency eslint-plugin-vue to ^5.0.0 ([#54](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-vue/issues/54)) ([f67176a](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-vue/commit/f67176a))
+
+
+### Chores
+
+* **release:** publish %s ([ebce814](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-vue/commit/ebce814))
+* **release:** publish packages ([b46faa4](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-vue/commit/b46faa4))
+* **release:** publish packages ([220535d](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-vue/commit/220535d))
+
+
+
+
+
+
 ## [1.4.2](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-vue/compare/eslint-config-wopian-vue@1.4.1...eslint-config-wopian-vue@1.4.2) (2018-08-30)
 
 **Note:** Version bump only for package eslint-config-wopian-vue

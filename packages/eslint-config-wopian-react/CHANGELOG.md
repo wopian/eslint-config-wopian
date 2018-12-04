@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.3](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-react/compare/v1.3.4...v1.4.3) (2018-12-04)
+
+
+### Build System / Dependencies
+
+* **eslint-config-wopian:** update linters ([#36](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-react/issues/36)) ([c73bf72](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-react/commit/c73bf72))
+
+
+### Chores
+
+* **release:** publish %s ([ebce814](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-react/commit/ebce814))
+* **release:** publish packages ([b46faa4](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-react/commit/b46faa4))
+* **release:** publish packages ([220535d](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-react/commit/220535d))
+
+
+
+
+
+
 ## [1.4.2](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-react/compare/eslint-config-wopian-react@1.4.1...eslint-config-wopian-react@1.4.2) (2018-08-30)
 
 

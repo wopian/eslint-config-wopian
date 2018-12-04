@@ -3,6 +3,31 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.3](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/compare/v1.3.4...v1.4.3) (2018-12-04)
+
+
+### Build System / Dependencies
+
+* **eslint-config-wopian:** update dependency babel-eslint to ^10.0.0 ([#43](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/issues/43)) ([5e2be09](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/commit/5e2be09))
+* **eslint-config-wopian:** update dependency babel-eslint to ^9.0.0 ([#34](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/issues/34)) ([eeb2485](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/commit/eeb2485))
+* **eslint-config-wopian:** update dependency eslint-plugin-jest to ^22.0.0 ([#49](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/issues/49)) ([a06f112](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/commit/a06f112))
+* **eslint-config-wopian:** update dependency eslint-plugin-node to ^8.0.0 ([#47](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/issues/47)) ([90e52d0](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/commit/90e52d0))
+* **eslint-config-wopian:** update linters ([#36](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/issues/36)) ([c73bf72](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/commit/c73bf72))
+* update dependency eslint-plugin-node to ^7.0.0 ([#26](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/issues/26)) ([7b43662](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/commit/7b43662))
+* update linters ([#33](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/issues/33)) ([6095626](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/commit/6095626))
+
+
+### Chores
+
+* **release:** publish %s ([ebce814](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/commit/ebce814))
+* **release:** publish packages ([b46faa4](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/commit/b46faa4))
+* **release:** publish packages ([220535d](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/commit/220535d))
+
+
+
+
+
+
 ## [1.4.2](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/compare/eslint-config-wopian@1.4.1...eslint-config-wopian@1.4.2) (2018-08-30)
 
 
