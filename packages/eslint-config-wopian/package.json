@@ -1,5 +1,5 @@
 {
-  "version": "1.5.1",
+  "version": "1.5.2",
   "name": "eslint-config-wopian",
   "description": "Standard ESLint Config for my projects",
   "author": "James Harris <wopian@wopian.me>",

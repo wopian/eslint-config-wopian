@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.5.2](https://github.com/wopian/eslint-config-wopian/compare/v1.5.1...v1.5.2) (2020-05-01)
+
+
+### Documentation Changes
+
+* update eslint/node requirements ([2b894f8](https://github.com/wopian/eslint-config-wopian/commit/2b894f8))
+
+
+
+
+
 ## [1.5.1](https://github.com/wopian/eslint-config-wopian/compare/v1.4.3...v1.5.1) (2020-05-01)
 
 
