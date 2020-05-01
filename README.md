@@ -15,7 +15,7 @@ Available for:
 
 [JavaScript]:https://www.npmjs.com/package/eslint-config-wopian
 [React]:https://www.npmjs.com/package/eslint-config-wopian-react
-[Vue]:https://www.npmjs.com/packages/eslint-config-wopian-vue
+[Vue]:https://www.npmjs.com/package/eslint-config-wopian-vue
 
 ## Contributing
 
