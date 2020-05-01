@@ -18,8 +18,8 @@ Also available for [Vue] and [React]
 
 ## Requirements
 
-- [ESLint] `>=4.0.0`
-- Node `>=6.0.0`
+- [ESLint] `>=6.0.0`
+- Node `>=10.0.0`
 
 ## Installation
 
