@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-vue/compare/v1.5.2...v2.0.0) (2020-05-13)
+
+
+### Build System / Dependencies
+
+* update lockfile ([acd28f6](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-vue/commit/acd28f6))
+* **eslint-config-wopian:** update peerdependency eslint to v7.0.0 ([#113](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-vue/issues/113)) ([f667dee](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-vue/commit/f667dee))
+
+
+### Documentation Changes
+
+* update requirements to ESlint 7 ([35dd7b9](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-vue/commit/35dd7b9))
+
+
+
+
+
 ## [1.5.2](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-vue/compare/v1.5.1...v1.5.2) (2020-05-01)
 
 
