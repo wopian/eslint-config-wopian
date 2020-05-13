@@ -25,14 +25,14 @@
   },
   "devDependencies": {
     "conventional-changelog-angular-all-2": "~5.0.1",
-    "eslint": "~6.8.0",
+    "eslint": "~7.0.0",
     "eslint-find-rules": "~3.4.0",
     "jest": "~26.0.0",
     "lerna": "~3.20.0",
     "yarn-run-all": "~3.1.1"
   },
   "peerDependencies": {
-    "eslint": "^6.0.0"
+    "eslint": "^7.0.0"
   },
   "jest": {
     "testEnvironment": "node"
