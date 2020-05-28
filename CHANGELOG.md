@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.1](https://github.com/wopian/eslint-config-wopian/compare/v2.0.0...v2.0.1) (2020-05-28)
+
+
+### Build System / Dependencies
+
+* update devdependency eslint to ~7.1.0 ([#116](https://github.com/wopian/eslint-config-wopian/issues/116)) ([0335b03](https://github.com/wopian/eslint-config-wopian/commit/0335b03))
+* update devdependency lerna to ~3.21.0 ([#115](https://github.com/wopian/eslint-config-wopian/issues/115)) ([499e95d](https://github.com/wopian/eslint-config-wopian/commit/499e95d))
+* update devdependency lerna to ~3.22.0 ([#117](https://github.com/wopian/eslint-config-wopian/issues/117)) ([3b38907](https://github.com/wopian/eslint-config-wopian/commit/3b38907))
+
+
+
+
+
 # [2.0.0](https://github.com/wopian/eslint-config-wopian/compare/v1.5.2...v2.0.0) (2020-05-13)
 
 
