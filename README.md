@@ -3,7 +3,6 @@
 [![travis badge]][travis]
 [![david dev badge]][david dev]
 [![contributors badge]][contributors]
-[![donate badge]][donate]
 
 Standard ESLint Config for my projects.
 
@@ -48,6 +47,3 @@ All code released under [MIT]
 
 [contributors]: https://github.com/wopian/eslint-config-wopian/graphs/contributors
 [contributors badge]: https://flat.badgen.net/github/contributors/wopian/eslint-config-wopian
-
-[donate]:https://paypal.me/wopian
-[donate badge]:https://flat.badgen.net/badge/support%20me%20on/paypal.me/pink
