@@ -3,7 +3,6 @@
 [![npm badge]][npm]
 [![npm install badge]][npm]
 [![contributors badge]][contributors]
-[![donate badge]][donate]
 
 [![travis badge]][travis]
 [![david badge]][david]
@@ -77,6 +76,3 @@ All code released under [MIT]
 
 [contributors]: https://github.com/wopian/eslint-config-wopian/graphs/contributors
 [contributors badge]: https://img.shields.io/github/contributors/wopian/eslint-config-wopian.svg?style=flat-square
-
-[donate]:https://paypal.me/wopian
-[donate badge]:https://img.shields.io/badge/support%20me%20on-paypal.me-ff69b4.svg?style=flat-square
