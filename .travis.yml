@@ -6,6 +6,7 @@ dist: xenial
 language: node_js
 node_js:
 - node
+- 14
 - 12 # EOL Apr 2022
 - 10 # EOL Apr 2021
 cache:
