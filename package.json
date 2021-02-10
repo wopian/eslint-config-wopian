@@ -25,7 +25,7 @@
   },
   "devDependencies": {
     "conventional-changelog-angular-all-2": "~5.0.1",
-    "eslint": "~7.18.0",
+    "eslint": "~7.19.0",
     "eslint-find-rules": "~3.6.0",
     "jest": "~26.6.0",
     "lerna": "~3.22.0",
