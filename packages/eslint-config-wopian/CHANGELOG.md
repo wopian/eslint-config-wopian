@@ -3,6 +3,34 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.1.0](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/compare/v2.0.1...v2.1.0) (2021-05-07)
+
+
+### Build System / Dependencies
+
+* **eslint-config-wopian:** update dependency eslint-plugin-jest to ^24.0.0 ([#133](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/issues/133)) ([f7de55d](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/commit/f7de55d))
+* **eslint-config-wopian:** update dependency eslint-plugin-promise to ^5.0.0 ([#159](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/issues/159)) ([6b101bc](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/commit/6b101bc))
+* **eslint-config-wopian:** update linters ([#142](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/issues/142)) ([cce9421](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/commit/cce9421))
+
+
+### Chores
+
+* update dependencies ([2268f25](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/commit/2268f25))
+
+
+### New Features
+
+* disable path concatenation error linter ([6477afa](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/commit/6477afa))
+
+
+### Other Changes
+
+* Update README.md ([76a1318](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/commit/76a1318))
+
+
+
+
+
 ## [2.0.1](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian/compare/v2.0.0...v2.0.1) (2020-05-28)
 
 **Note:** Version bump only for package eslint-config-wopian

@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.1.0](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-react/compare/v2.0.1...v2.1.0) (2021-05-07)
+
+
+### Build System / Dependencies
+
+* **eslint-config-wopian:** update linters ([#142](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-react/issues/142)) ([cce9421](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-react/commit/cce9421))
+
+
+### Chores
+
+* update dependencies ([2268f25](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-react/commit/2268f25))
+
+
+### Other Changes
+
+* Update README.md ([0f35bca](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-react/commit/0f35bca))
+
+
+
+
+
 ## [2.0.1](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-react/compare/v2.0.0...v2.0.1) (2020-05-28)
 
 **Note:** Version bump only for package eslint-config-wopian-react
