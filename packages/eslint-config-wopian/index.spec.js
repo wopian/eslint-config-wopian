@@ -20,7 +20,7 @@ describe('wopian', () => {
 
   it('should use babel to parse files', () => {
     expect.assertions(1)
-    expect(config.parser).toBe('babel-eslint')
+    expect(config.parser).toBe('@babel/eslint-parser')
   })
 
   it('should use jest', () => {
