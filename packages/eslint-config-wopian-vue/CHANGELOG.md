@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.1](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-vue/compare/v2.1.0...v2.1.1) (2021-05-12)
+
+**Note:** Version bump only for package eslint-config-wopian-vue
+
+
+
+
+
 # [2.1.0](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-vue/compare/v2.0.1...v2.1.0) (2021-05-07)
 
 
