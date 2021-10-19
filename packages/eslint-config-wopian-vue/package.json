@@ -15,10 +15,10 @@
   },
   "dependencies": {
     "eslint-config-wopian": "^2.1.1",
-    "eslint-plugin-html": "^6.1.0",
-    "eslint-plugin-vue": "^7.9.0"
+    "eslint-plugin-html": "^6.2.0",
+    "eslint-plugin-vue": "^7.19.1"
   },
   "peerDependencies": {
-    "eslint": "^7.0.0"
+    "eslint": "^8.0.0"
   }
 }

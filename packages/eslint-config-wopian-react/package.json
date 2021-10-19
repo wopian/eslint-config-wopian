@@ -16,9 +16,9 @@
   "dependencies": {
     "eslint-config-standard-jsx": "^10.0.0",
     "eslint-config-wopian": "^2.1.1",
-    "eslint-plugin-react": "^7.23.0"
+    "eslint-plugin-react": "^7.26.1"
   },
   "peerDependencies": {
-    "eslint": "^7.0.0"
+    "eslint": "^8.0.0"
   }
 }

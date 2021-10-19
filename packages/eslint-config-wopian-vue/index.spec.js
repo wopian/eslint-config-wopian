@@ -1,16 +1,21 @@
-const { CLIEngine } = require('eslint')
+require('regenerator-runtime/runtime')
+const { ESLint } = require('eslint')
 const config = require('./')
 
-const cli = new CLIEngine({
+const eslint = new ESLint({
   useEslintrc: false,
-  configFile: `${__dirname}/.eslintrc.json`
+  overrideConfigFile: `${__dirname}/.eslintrc.json`
 })
 
-describe('wopian-react', () => {
-  it('should be a valid ESLint config', () => {
+const printLintErrors = results => results[0].errorCount > 0 && console.warn(results[0].messages)
+
+describe('wopian-vue', () => {
+  it('should be a valid ESLint config', async () => {
     expect.assertions(1)
-    const code = 'var foo = 1\nvar bar = function () {}\nbar(foo)\n'
-    expect(cli.executeOnText(code).errorCount).toBe(0)
+    const code = 'const foo = 1\nconst bar = function () {}\nbar(foo)\n'
+    const results = await eslint.lintText(code)
+    printLintErrors(results)
+    expect(results[0].errorCount).toBe(0)
   })
 
   it('should extend wopian and vue', () => {
