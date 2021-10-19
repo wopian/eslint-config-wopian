@@ -3,6 +3,53 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.0.0](https://github.com/wopian/eslint-config-wopian/compare/v2.1.1...v3.0.0) (2021-10-19)
+
+
+### Build System / Dependencies
+
+* **deps:** bump tmpl from 1.0.4 to 1.0.5 ([#180](https://github.com/wopian/eslint-config-wopian/issues/180)) ([094aa8a](https://github.com/wopian/eslint-config-wopian/commit/094aa8a))
+* **deps:** bump ws from 7.4.5 to 7.4.6 ([#166](https://github.com/wopian/eslint-config-wopian/issues/166)) ([081ea6f](https://github.com/wopian/eslint-config-wopian/commit/081ea6f))
+* **eslint-config-wopian:** lock file maintenance ([#167](https://github.com/wopian/eslint-config-wopian/issues/167)) ([8e61374](https://github.com/wopian/eslint-config-wopian/commit/8e61374))
+* **eslint-config-wopian:** lock file maintenance ([#170](https://github.com/wopian/eslint-config-wopian/issues/170)) ([b6bdde2](https://github.com/wopian/eslint-config-wopian/commit/b6bdde2))
+* **eslint-config-wopian:** lock file maintenance ([#173](https://github.com/wopian/eslint-config-wopian/issues/173)) ([1a412fb](https://github.com/wopian/eslint-config-wopian/commit/1a412fb))
+* **eslint-config-wopian:** lock file maintenance ([#178](https://github.com/wopian/eslint-config-wopian/issues/178)) ([01674db](https://github.com/wopian/eslint-config-wopian/commit/01674db))
+* **eslint-config-wopian:** lock file maintenance ([#181](https://github.com/wopian/eslint-config-wopian/issues/181)) ([1fafd00](https://github.com/wopian/eslint-config-wopian/commit/1fafd00))
+* update devdependency eslint to ~7.27.0 ([#164](https://github.com/wopian/eslint-config-wopian/issues/164)) ([0d81435](https://github.com/wopian/eslint-config-wopian/commit/0d81435))
+* update devdependency eslint to ~7.28.0 ([#168](https://github.com/wopian/eslint-config-wopian/issues/168)) ([e250ade](https://github.com/wopian/eslint-config-wopian/commit/e250ade))
+* update devdependency eslint to ~7.29.0 ([#169](https://github.com/wopian/eslint-config-wopian/issues/169)) ([d3cb4d0](https://github.com/wopian/eslint-config-wopian/commit/d3cb4d0))
+* update devdependency eslint to ~7.30.0 ([#171](https://github.com/wopian/eslint-config-wopian/issues/171)) ([230ba99](https://github.com/wopian/eslint-config-wopian/commit/230ba99))
+* update devdependency eslint to ~7.31.0 ([#172](https://github.com/wopian/eslint-config-wopian/issues/172)) ([8e2c08d](https://github.com/wopian/eslint-config-wopian/commit/8e2c08d))
+* update devdependency eslint to ~7.32.0 ([#174](https://github.com/wopian/eslint-config-wopian/issues/174)) ([ab83dea](https://github.com/wopian/eslint-config-wopian/commit/ab83dea))
+* update devdependency jest to ~27.0.0 ([#165](https://github.com/wopian/eslint-config-wopian/issues/165)) ([f65d84c](https://github.com/wopian/eslint-config-wopian/commit/f65d84c))
+* update devdependency jest to ~27.1.0 ([#176](https://github.com/wopian/eslint-config-wopian/issues/176)) ([b05bf29](https://github.com/wopian/eslint-config-wopian/commit/b05bf29))
+* update devdependency jest to ~27.2.0 ([#179](https://github.com/wopian/eslint-config-wopian/issues/179)) ([8b306bd](https://github.com/wopian/eslint-config-wopian/commit/8b306bd))
+
+
+### Continuous Integration
+
+* force colour output in logs ([d2fbe7c](https://github.com/wopian/eslint-config-wopian/commit/d2fbe7c))
+* update codeql workflow ([351b034](https://github.com/wopian/eslint-config-wopian/commit/351b034))
+
+
+### New Features
+
+* upgrade to ESLint 8 ([395eac2](https://github.com/wopian/eslint-config-wopian/commit/395eac2))
+
+
+### Other Changes
+
+* Update codeql-analysis.yml ([dbf41d1](https://github.com/wopian/eslint-config-wopian/commit/dbf41d1))
+
+
+### BREAKING CHANGES
+
+* Incompatible with ESLint 6 or lower
+
+
+
+
+
 ## [2.1.1](https://github.com/wopian/eslint-config-wopian/compare/v2.1.0...v2.1.1) (2021-05-12)
 
 

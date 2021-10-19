@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.0.0](https://github.com/wopian/eslint-config-wopian/compare/v2.1.1...v3.0.0) (2021-10-19)
+
+
+### New Features
+
+* upgrade to ESLint 8 ([395eac2](https://github.com/wopian/eslint-config-wopian/commit/395eac2))
+
+
+### BREAKING CHANGES
+
+* Incompatible with ESLint 6 or lower
+
+
+
+
+
 ## [2.1.1](https://github.com/wopian/eslint-config-wopian/tree/master/packages/eslint-config-wopian-react/compare/v2.1.0...v2.1.1) (2021-05-12)
 
 **Note:** Version bump only for package eslint-config-wopian-react

@@ -1,5 +1,5 @@
 {
-  "version": "2.1.1",
+  "version": "3.0.0",
   "name": "eslint-config-wopian-react",
   "description": "Standard ESLint Config for my React projects",
   "author": "James Harris <wopian@wopian.me>",
@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "eslint-config-standard-jsx": "^10.0.0",
-    "eslint-config-wopian": "^2.1.1",
+    "eslint-config-wopian": "^3.0.0",
     "eslint-plugin-react": "^7.26.1"
   },
   "peerDependencies": {
