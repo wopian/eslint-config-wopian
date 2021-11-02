@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.1](https://github.com/wopian/eslint-config-wopian/compare/v3.0.0...v3.0.1) (2021-11-02)
+
+
+### Build System / Dependencies
+
+* **eslint-config-wopian-vue:** update dependency eslint-plugin-vue to ^8.0.0 ([#183](https://github.com/wopian/eslint-config-wopian/issues/183)) ([a31af46](https://github.com/wopian/eslint-config-wopian/commit/a31af46))
+* update devdependency eslint to ~8.1.0 ([#182](https://github.com/wopian/eslint-config-wopian/issues/182)) ([6e7783e](https://github.com/wopian/eslint-config-wopian/commit/6e7783e))
+
+
+
+
+
 # [3.0.0](https://github.com/wopian/eslint-config-wopian/compare/v2.1.1...v3.0.0) (2021-10-19)
 
 
