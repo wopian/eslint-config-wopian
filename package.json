@@ -27,7 +27,7 @@
     "conventional-changelog-angular-all-2": "~5.0.3",
     "eslint": "~8.3.0",
     "eslint-find-rules": "~4.0.0",
-    "jest": "~27.3.1",
+    "jest": "~27.4.0",
     "lerna": "~4.0.0",
     "yarn-run-all": "~3.1.1"
   },
