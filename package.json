@@ -6,7 +6,7 @@
     "url": "https://github.com/wopian/eslint-config-wopian/issues"
   },
   "engines": {
-    "node": ">=10"
+    "node": ">=14"
   },
   "workspaces": [
     "packages/*"
