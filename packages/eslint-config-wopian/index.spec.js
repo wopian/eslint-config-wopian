@@ -1,10 +1,11 @@
 require('regenerator-runtime/runtime')
 const { ESLint } = require('eslint')
+const { resolve } = require('path')
 const config = require('./')
 
 const eslint = new ESLint({
   useEslintrc: false,
-  overrideConfigFile: `${__dirname}/.eslintrc.json`
+  overrideConfigFile: resolve(__dirname, '.eslintrc.json')
 })
 
 const printLintErrors = results => results[0].errorCount > 0 && console.warn(results[0].messages)
